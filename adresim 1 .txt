@@ -1,0 +1,1 @@
+Data Source=Emircet\SQLEXPRESS;Initial Catalog=personelVeriTabani;Integrated Security=True
